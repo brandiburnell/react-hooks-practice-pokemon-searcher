@@ -1340,6 +1340,15 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "bulbasaur",
+      "hp": "100",
+      "sprites": {
+        "front": "https://img.pokemondb.net/sprites/brilliant-diamond-shining-pearl/normal/bulbasaur.png",
+        "back": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALIAAACUCAMAAAAAoYNxAAABUFBMVEX///9zrTEhlIQAAACl1kJazr10rzEil4a9/3M+XB51sTEim4l4tTKWyj0joI5uoy+xurxTZSnw8e1jiy0PFxiop6dRYSldfCwAV1ZqmS9NVihejSkTFA5bdywgjn8bal4MMT/o6OgAGhOAimlqpi649WhAsqFtfoPf4tw0SABtcnixsbFbajir3kRGUhqKwDlg2cYXYWEPAAAQLjOMlnpuijKOuTodf3VXbioWR0DX19cZa2YQQ0sAEADFyMKmrJ4NMAAlPgCRpXVTeRC3wquTnIik2mN+okuQt1GXy1ZDXBJ9jWB8njU6WAA4OB6l4l80MDiHh4gAJDIzQUsAJg9fa2GEjHuErDcADyJiiYgBOSohWEo1OxQ3XWCWo35emZRbXmUtTzhLoZYXIBUAABMtQhYaFh0jLgxCUjEdJzJBjHUlDRIAKiJrsaZNdG2Ts69/soV+AAAGJUlEQVR4nO2Z7VvaVhiHCQmJ5oUAEUKgnECFFF9ChEoSDNV2bdfOOSa6VTe61mqt3dbZ///bnpMEpJXL+mkHd53bSy+Ifrj98ZznPDlJJCgUCoVCoVAoFAqFQqFQKBQKhUKhUCgUCoVCoVAoc0muhr/hi7TI7Vl+tJ3YebzyZJm0yG3JNb97+qz5rKvrb+5Kzs9b3y+8WH+50ODc0iZpmdux2fqh8aL1csHm3N0f70bOm7u+ny1ossMpdWP9TuS8uVsANB6UeaN1B5ZgoeDaXexc2oOUHc7N4jdPSGvdxHoWK2f9LFbmZc7xMT8lcjGk/WawnlUdvaSpOihznCIzqqq4qrocs03abwbrWUP2B2VGH+zZNpRGvc7YtiPv7rZC5lSZ+bmxAF35yNdsDsOrlWwBLtcZhqns7+8P8YaeqGHmok5C5QVQto9K3Ui5rkLTy6oiz/OizrLs0gELYR8eHBz88itp3URu55Xr8nWlYT"
+      },
+      "id": 151
     }
   ]
 }
